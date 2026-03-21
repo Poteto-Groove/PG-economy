@@ -1,0 +1,7 @@
+name: PG-economy
+version: '${project.version}'
+main: com.potetogroove.pgeconomy.PGEconomy
+description: Economy plugin for Poteto-Groove
+api-version: '1.21'
+authors:
+  - warasugitewara
