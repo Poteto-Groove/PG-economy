@@ -2,6 +2,6 @@ name: PG-economy
 version: '${project.version}'
 main: com.potetogroove.pgeconomy.PGEconomy
 description: Economy plugin for Poteto-Groove
-api-version: '1.21'
+api-version: '1.21.11'
 authors:
   - warasugitewara
